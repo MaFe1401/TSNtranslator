@@ -21,5 +21,5 @@ def getLldp():
 exec = getLldp()
 
 #Get IP address from NIC-TSN
-#def getNicIp():
-    
+def getNicIp():
+    print("qwrty")
